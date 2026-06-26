@@ -1,0 +1,11 @@
+qa_project/outputs/best_model/
+*.bin
+*.pt
+*.pth
+__pycache__/
+*.pyc
+.env
+venv/
+.vscode/
+.DS_Store
+
